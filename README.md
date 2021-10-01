@@ -1,4 +1,4 @@
-Make a Music Album
+<!-- Make a Music Album -->
 
 We will be creating a music album dedicated to our beautiful planet.
 

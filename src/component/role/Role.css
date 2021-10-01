@@ -1,0 +1,27 @@
+.card{
+    width: 14rem;
+    background-color: rgb(240, 244, 245);
+}
+.card:hover{
+    transform: scale(1.1, 1.1);
+    background-color: cornflowerblue;
+}
+.card-img-top{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 20px 50px;
+}
+
+.card-title{
+    font-size: medium;
+    color: black;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    margin: 10px 50px;
+}
+.fas{
+    margin-right:5px ;
+}

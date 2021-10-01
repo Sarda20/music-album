@@ -1,0 +1,8 @@
+.header{
+    background-color: gainsboro;
+    color:black;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
